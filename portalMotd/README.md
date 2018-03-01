@@ -5,7 +5,6 @@
 
 ```
 portal {
-    siteHeader = "Open Access to Ocean Data"
     motdUrl = "https://s3-ap-southeast-2.amazonaws.com/static.emii.org.au/portalMotd/index.txt"
     .....
 ```
