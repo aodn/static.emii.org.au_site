@@ -5,7 +5,7 @@
 
 ```
 portal {
-    motdUrl = "https://s3-ap-southeast-2.amazonaws.com/static.emii.org.au/portalMotd/index.txt"
+    motdUrl = "https://static.emii.org.au/portalMotd/index.txt"
     .....
 ```
     
@@ -17,4 +17,3 @@ portal {
 
 - One line only will have the default title of "_Notice_" and the supplied line will show as body text.
 - The portal will ignore an empty file or missing file.
-- The portal should address `index.txt` via the direct link https://s3-ap-southeast-2.amazonaws.com/static.emii.org.au/portalMotd/index.txt avoiding caching.
