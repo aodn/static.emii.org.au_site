@@ -3,7 +3,7 @@
     We’re releasing a new version of the AODN Data Portal (<a href="https://portal-beta.aodn.org.au">click here</a>)
     and invite you to explore it while it’s in beta.
     Your feedback will help us improve functionality, performance, and usability before full release.
-    (<a href="https://forms.office.com/pages/responsepage.aspx?id=VV3rFZEZvEaNp6slI03uCIbxNcrqZltDmWw3jsls7JBUMEJTRENHV1o4QzcyWUtKUzJZU1U2SDk1US4u&route=shorturl">Feedback form</a>)
+    (<a target="_blank" href="https://forms.office.com/pages/responsepage.aspx?id=VV3rFZEZvEaNp6slI03uCIbxNcrqZltDmWw3jsls7JBUMEJTRENHV1o4QzcyWUtKUzJZU1U2SDk1US4u&route=shorturl">Feedback form</a>)
 </div>
 <div style="margin: 16px 0">
 The new Portal introduces a refreshed experience designed to make discovering, accessing, and using data easier and more efficient.
