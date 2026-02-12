@@ -1,1 +1,25 @@
-
+<h1>Announcement</h1>
+<div style="margin: 16px 0;">
+    We’re releasing a new version of the AODN Data Portal (<a href="https://portal-beta.aodn.org.au">click here</a>)
+    and invite you to explore it while it’s in beta.
+    Your feedback will help us improve functionality, performance, and usability before full release.
+    (<a target="_blank" href="https://forms.office.com/pages/responsepage.aspx?id=VV3rFZEZvEaNp6slI03uCIbxNcrqZltDmWw3jsls7JBUMEJTRENHV1o4QzcyWUtKUzJZU1U2SDk1US4u&route=shorturl">Feedback form</a>)
+</div>
+<div style="margin: 16px 0">
+The new Portal introduces a refreshed experience designed to make discovering, accessing, and using data easier and more efficient.
+</div>
+<div style="margin: 16px 0;">
+    Key improvements include:
+    <ul style="margin:0;padding-left:20px;list-style-type:disc;">
+        <li>Discover IMOS data and 1000's of other datasets from AODN partners</li>
+        <li>Improved search and discovery – faster, more relevant results with clearer filtering and navigation.</li>
+        <li>
+            For compatible datasets:
+            <ul style="margin:0;padding-left:20px;list-style-type:disc;">
+                <li>Data previews for better understanding of where data are located</li>
+                <li>User defined sub-setting for targeted downloading of data</li>
+                <li>Example coding notebooks to kick-start data analysis</li>
+            </ul>
+        </li>
+    </ul>
+</div>
