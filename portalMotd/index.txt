@@ -1,7 +1,4 @@
 <h1>Announcement</h1>
-<div style="margin: 18px 0;">
-We are aware of issues currently affecting Step 1 search filtering and Step 2 visualisation filtering and are working to resolve them. Apologies for the inconvenience.
-</div>
 <div style="margin: 16px 0;">
     We’re releasing a new version of the AODN Data Portal (<a href="https://portal-beta.aodn.org.au">click here</a>)
     and invite you to explore it while it’s in beta.
