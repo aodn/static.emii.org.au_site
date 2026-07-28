@@ -11,7 +11,7 @@ The new Portal introduces a refreshed experience designed to make discovering, a
 <div style="margin: 16px 0;">
     Key improvements include:
     <ul style="margin:0;padding-left:20px;list-style-type:disc;">
-        <li>Discover IMOS data and 1000's of other datasets from AODN partners</li>
+        <li>Discover IMOS data and 1000s of other metadata records/datasets from AODN partners and contributors</li>
         <li>Improved search and discovery – faster, more relevant results with clearer filtering and navigation.</li>
         <li>
             For compatible datasets:
